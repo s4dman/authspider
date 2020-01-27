@@ -9,7 +9,7 @@ A Powerful Spider(web crawler) System built in Python.
 
 ## Thanks:
 
-We used [ToScrape.com](http://quotes.toscrape.com/), a free Web Scraping Sandbox for beginners to implement their scraping techniques.
+We used [ToScrape.com](http://quotes.toscrape.com/), a free Web Scraping Sandbox to implement scraping techniques.
 
 Mechanize: https://github.com/python-mechanize/mechanize
 
